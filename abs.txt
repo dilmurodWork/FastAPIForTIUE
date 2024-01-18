@@ -1,0 +1,8 @@
+
+1. py -m venv venv
+2. venv\Scripts\activate
+(Linux\Mac: source venv/bin/activate)
+👌 pip install --upgrade pip
+
+3. pip install fastapi[all]
+4. pip freeze > requirements.txt
